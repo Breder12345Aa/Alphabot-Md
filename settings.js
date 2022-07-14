@@ -20,10 +20,10 @@ global.available = false //status online (online)
 // Other
 global.botname = "BOT-MD" //namabot kalian
 global.ownername= "bayuOfc" //nama kalian
-global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "bayu@gmail.com" //bebas
+global.myweb ="https://wa.me/6283183321692" //bebas asal jan hapus
+global.youtube = "👤ZeeoneOfc👤" //bebas asal jan hapus
+global.github = "zeeone-ofc" //bebas
+global.email = "bot-md@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6283183321692" // nomor wa kalian
 global.ownernomerr = "+6283183321692" //nmr wa kalian
