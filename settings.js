@@ -18,8 +18,8 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "BOT-MD" //namabot kalian
-global.ownername= "bayuOfc" //nama kalian
+global.botname = "Fvp Bot" //namabot kalian
+global.ownername= "Fvp full" //nama kalian
 global.myweb ="https://wa.me/6283183321692" //bebas asal jan hapus
 global.youtube = "👤ZeeoneOfc👤" //bebas asal jan hapus
 global.github = "zeeone-ofc" //bebas
@@ -30,7 +30,7 @@ global.ownernomerr = "+6283183321692" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6283183321692","6283183321692","62895386445819"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6283183321692","6283183321692","6285171162423"] //ganti agar fitur owner bisa di gunakan
 global.packname = 'BOT - MD' //sticker wm ubah
 global.author = 'Di Buat Oleh bayu' //sticker wm ganti nama kalian
 global.sessionName = 'session'
